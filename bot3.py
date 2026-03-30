@@ -12,7 +12,7 @@ load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # ===== CONFIG =====
-REGISTRATION_LINK = "https://www.lottery7r.com/#/register?invitationCode=4114418553449"
+REGISTRATION_LINK = "https://www.jaiclub18.com/#/register?invitationCode=71888191250"
 
 VIDEO_PATH = "video.mp4"
 APK_PATH = "app.apk"
